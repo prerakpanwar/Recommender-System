@@ -12,3 +12,5 @@ Technologies Used: Python| NumPy | Pandas | Scikit-learn| Natural Language Proce
 Project flow: 1.Data --> 2.Preprocessing --> 3.Model --> 4.Website --> 5.Deploy.
 
 Done with 3 steps, working on the website and deployment phase.
+
+Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
