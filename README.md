@@ -10,6 +10,7 @@ Designed the recommender system to provide top 6 movie recommendations for a giv
 Technologies Used: Python| NumPy | Pandas | Scikit-learn| Natural Language Processing (NLP) techniques | Vectorization | Stemming | Cosine similarity
 
 Project flow: 1.Data --> 2.Preprocessing --> 3.Model --> 4.Website --> 5.Deploy.
+
 ![WhatsApp Image 2024-04-05 at 9 33 34 PM](https://github.com/prerakpanwar/Recommender-System/assets/40028120/78516baf-f61e-4728-b432-51b6766d363b)
 
 Done with 3 steps, working on the website and deployment phase.
