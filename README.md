@@ -13,6 +13,6 @@ Project flow: 1.Data --> 2.Preprocessing --> 3.Model --> 4.Website --> 5.Deploy.
 
 ![WhatsApp Image 2024-04-05 at 9 33 34 PM](https://github.com/prerakpanwar/Recommender-System/assets/40028120/78516baf-f61e-4728-b432-51b6766d363b)
 
-Done with 3 steps, working on the website and deployment phase.
+Done with 4 steps, working on the last deployment phase.
 
 Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
