@@ -11,7 +11,7 @@ Technologies Used: Python| NumPy | Pandas | Scikit-learn| Natural Language Proce
 
 Project flow: 1.Data --> 2.Preprocessing --> 3.Model --> 4.Website --> 5.Deploy.
 
-NOTE: I used pycharm for this Project and ran this command to run my recommender system "streamlit run application.py"
+NOTE: I used pycharm for this Project and ran this command to run my recommender system "streamlit run application.py". Also, you have to login to TMDB to get your API key, You can use mine and if it is not working then you need to create your account in TMDB to get a new API for you. "https://www.themoviedb.org/"
 
 ![WhatsApp Image 2024-04-05 at 9 33 34 PM](https://github.com/prerakpanwar/Recommender-System/assets/40028120/78516baf-f61e-4728-b432-51b6766d363b)
 
