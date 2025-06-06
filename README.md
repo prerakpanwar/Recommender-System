@@ -3,8 +3,11 @@ This project is a content-based movie recommendation system that suggests top si
 
 # Project Highlights:
 1-Intelligent Recommendations: Engineered a machine learning model in Python that leverages Natural Language Processing (NLP) techniques and vectorization to convert movie features into numerical representations. This enables the system to compute cosine similarity, identifying and recommending the top 10 most similar movies.
+
 2-End-to-End Development: Managed the entire project lifecycle, from gathering and preprocessing 5000+ movie records (including cleaning and handling missing values) to deploying a user-friendly web application.
+
 3-Interactive User Experience: Built a responsive front-end using Streamlit that allows users to select a movie title from a dropdown. The system then fetches and displays movie posters via the TMDB API, providing rich visual context for recommendations.
+
 4-Key Technologies: Python | NumPy | Pandas | Scikit-learn | Natural Language Processing (NLP) techniques | Vectorization | Stemming | Cosine similarity
 
 Developed a content-based movie recommender system using Python and various machine learning libraries |
