@@ -29,6 +29,9 @@ The system operates on a content-based filtering approach. When you select a mov
 
 *Select a movie from the dropdown to instantly get your top recommendations!
 
+### Results
+![Screenshot 2025-06-06 144534](https://github.com/user-attachments/assets/43742aba-f686-435d-92f4-49061c6323e0)
+
 ### Dataset link:
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
